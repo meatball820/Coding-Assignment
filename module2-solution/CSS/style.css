@@ -72,6 +72,12 @@ For a visual reference of this view, see the tablet mockup illustration below. *
         margin-right: 2.5%;
         margin-top: 30px;
     }
+    #wide {
+        width: 95%;
+        margin-left: 2.5%;
+        margin-right: 2.5%;
+        margin-top: 30px;
+    }
     
 }
 /* Layout: In the mobile view (equal to or less than 767px), each section should 
